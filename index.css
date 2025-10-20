@@ -1,0 +1,153 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  background-color: #ededed;
+  font-size: 1rem;
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.post {
+  background-color: #fff;
+}
+
+/* Header */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 16px 24px;
+  background-color: #fff;
+  border-bottom: 1px solid #c6c6c6;
+}
+
+.logo {
+  width: 100px;
+  align-self: flex-start;
+}
+
+.user-avatar {
+  align-self: center;
+  width: 52px;
+  border-radius: 50%;
+}
+
+/* Post-header */
+
+.post .container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 16px 24px;
+  margin: 0;
+}
+
+.post .post-header {
+  gap: 10px;
+}
+
+.post-header .avatar {
+  width: 42px;
+  border-radius: 50%;
+}
+
+.name,
+.location {
+  margin: 0;
+}
+
+.name {
+  font-size: 1rem;
+  margin-bottom: 4px;
+}
+
+.location {
+  font-size: 0.875rem;
+}
+
+/* Post-image */
+
+.post-image {
+  margin: 0;
+}
+
+figure {
+  line-height: 0; /* remove unwanted whitespace below img */
+}
+
+.post .img {
+  width: 100%;
+}
+
+/* Post-actions */
+
+.post .post-actions {
+  box-sizing: border-box;
+  gap: 0px;
+  padding: 10px;
+}
+
+.post-actions button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 6px;
+  border-radius: 50%;
+  display: flex;
+}
+
+.post-actions button img {
+  width: 32px;
+  margin: auto;
+}
+
+button[aria-label="Like"]:hover,
+button[aria-label="Like"]:focus,
+.like-btn.liked {
+  background-color: rgba(248, 132, 132, 0.626);
+}
+
+button[aria-label="Comment"]:hover,
+button[aria-label="Comment"]:focus {
+  background-color: rgba(248, 229, 132, 0.626);
+}
+
+button[aria-label="Direct message"]:hover,
+button[aria-label="Direct message"]:focus {
+  background-color: rgba(161, 193, 237, 0.626);
+}
+
+/* Post-likes */
+
+.post .post-likes {
+  padding-top: 0;
+}
+
+.post-likes p {
+  margin: 0;
+  font-weight: bold;
+}
+
+/* Post-comment */
+
+.post .post-comment {
+  padding-top: 0;
+}
+
+.post-comment p {
+  margin: 0;
+  line-height: 1.4;
+}
