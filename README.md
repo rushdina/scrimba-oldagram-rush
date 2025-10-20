@@ -30,7 +30,10 @@ This project is an **Instagram clone** showcasing epic self-portraits from amazi
 
 ## 🎬 Preview
 
-![Oldagram Preview Video](videos/video-oldagram.mp4)
+<video controls width="600">
+  <source src="videos/video-oldagram.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 📚 Sources & References
 - Scrimba course: [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
