@@ -28,7 +28,7 @@ This project is an **Instagram clone** showcasing epic self-portraits from amazi
 - Store likes in local storage so counts persist on page reload.
 - Implement infinite scrolling for more posts.
 
-## 🎬 Preview
+## 🖼️ Preview
 
 ![Oldagram Preview Screenshot](images/screenshot-oldagram.png)
 
