@@ -34,4 +34,4 @@ This project is an **Instagram clone** showcasing epic self-portraits from amazi
 ## 📚 Sources & References
 - Scrimba course: [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
 - Figma Design reference by Scrimba: [View Figma Design](https://www.figma.com/design/h0MKma9TTWzGOMQ9Ia6ROW/Oldagram?node-id=0-1&p=f&t=1VIJva7ESjCWB2UZ-0)
-- Image assets provided by Scrimba for the project
+- Image assets provided by Scrimba 
