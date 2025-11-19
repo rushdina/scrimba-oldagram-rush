@@ -1,4 +1,4 @@
-# 📸 Oldagram (Instagram Clone)
+# 📸 Oldagram 
 
 A solo project from the [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j).  
 This project is an **Instagram clone** showcasing epic self-portraits from amazing artists. Posts are dynamically rendered using JavaScript from an array, allowing the page to scale to any number of posts while remaining semantic and accessible.
