@@ -11,16 +11,15 @@ This project is an **Instagram clone** showcasing epic self-portraits from amazi
 ## 🚀 Features
 - Dynamically renders all posts from a JavaScript array.
 - Displays artist avatar, name, location, post image, likes, and comments.
-- Semantic HTML elements: `<header>`, `<main>`, `<article>`, `<section>`, `<figure>`.
 - Hover effects for action icons: heart, comment, and DM.
-- Interactive likes: increment when clicking the heart or double-clicking the post image.
+- Likes increment when clicking the heart or double-clicking the post image.
 - Responsive layout using Flexbox.
 
 ## 🧠 What I Learned / Process
-- Practiced DOM manipulation and dynamic rendering using arrays and loops.
-- Implemented event listeners for multiple interactive elements (buttons and images).
+- Practiced **DOM manipulation** and dynamic rendering using arrays and loops.
+- Implemented **event listeners** for multiple interactive elements (buttons and images).
 - Applied semantic HTML for accessibility.
-- Styled posts using Flexbox and hover effects for interactivity.
+- Styled posts using **Flexbox** and hover effects for interactivity.
 
 ## 💡 Future Improvements
 - Add comment functionality.
