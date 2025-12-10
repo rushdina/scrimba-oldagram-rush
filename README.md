@@ -15,7 +15,7 @@ Posts are dynamically rendered from a JS array, showing artist avatars, images, 
 - Increment likes via heart click or image double-click.
 - Responsive layout with Flexbox.
 
-## 🧠 What I Learned 
+## 🧩 Concepts Practiced
 - DOM manipulation & dynamic rendering with arrays.
 - Event listeners for interactive elements.
 - Semantic HTML for accessibility.
