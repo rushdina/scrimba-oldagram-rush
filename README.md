@@ -3,11 +3,12 @@
 An **Instagram clone** solo project from the [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j).  
 Posts are dynamically rendered using JavaScript.
 Double-click a post image or click the like button to increase likes.
+Designed for **mobile view only**.
 
 ## 🖼️ Preview
 🔗 Live Demo: https://scrimba-oldagram-rushdina.netlify.app/
 
-![Oldagram Preview](images/screenshot-oldagram.png)
+<!--  ![Oldagram Preview](images/screenshot-oldagram.png) -->
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript
