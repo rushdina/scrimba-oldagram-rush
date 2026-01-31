@@ -1,36 +1,33 @@
 # 📸 Oldagram 
 
 An **Instagram clone** solo project from the [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j).  
-Posts are dynamically rendered from a JS array, showing artist avatars, images, likes, and comments.
-
-## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript (ES6)
-
-## 🚀 Features
-- Render posts dynamically from JS array.
-- Display avatar, name, location, image, likes, and comments.
-- Hover effects on action icons (heart, comment, DM).
-- Increment likes via heart click or image double-click.
-- Responsive layout with Flexbox.
-
-## 🧩 Concepts Practiced
-- DOM manipulation & dynamic rendering with arrays.
-- Event listeners for interactive elements.
-- Semantic HTML for accessibility.
-- Flexbox layout & hover effects.
-
-## 💡 Future Improvements
-- Add comments and like/unlike toggle.
-- Persist likes in local storage.
-- Implement infinite scrolling.
+Posts are dynamically rendered using JavaScript.
+Double-click a post image or click the like button to increase likes.
 
 ## 🖼️ Preview
+🔗 Live Demo: https://scrimba-oldagram-rushdina.netlify.app/
 
-![Oldagram Preview Screenshot](images/screenshot-oldagram.png)
+![Oldagram Preview](images/screenshot-oldagram.png)
 
-## 🙌 Credits
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+
+## 📚 What I Learned 
+- Rendering dynamic content with JS and template literals
+- Structuring content with semantic HTML (`<article>`, `<figure>`, `<section>`, `<nav>`)
+- Handling click and double-click events for interactive UI
+- Updating DOM elements dynamically (likes counter)
+- Using arrays of objects to store and manipulate data
+- Adding accessibility features (ARIA labels)
+- Formatting numbers with `toLocaleString()` for readability
+
+## 💡 Future Improvements
+- Add comment functionality
+- Toggle like/unlike state
+- Improve desktop responsiveness and styling
+- Add a “time ago” timestamp for posts
+
+## 🙌 Acknowledgements
 - **Scrimba course:** [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
 - **Design reference:** [Figma by Scrimba](https://www.figma.com/design/h0MKma9TTWzGOMQ9Ia6ROW/Oldagram?node-id=0-1&p=f&t=1VIJva7ESjCWB2UZ-0)
 - **Image assets:** Provided by Scrimba
