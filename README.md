@@ -1,7 +1,6 @@
 # 📸 Oldagram 
 
-An **Instagram clone** solo project from the [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j).  
-Posts are dynamically rendered using JavaScript.
+An **Instagram clone** that has posts dynamically rendered using JavaScript.
 Double-click a post image or click the like button to increase likes.
 Designed for **mobile view only**.
 
@@ -11,7 +10,7 @@ Designed for **mobile view only**.
 <!--  ![Oldagram Preview](images/screenshot-oldagram.png) -->
 
 ## 🛠️ Tech Stack
-- HTML, CSS, JavaScript
+- `HTML`, `CSS`, `JavaScript`
 
 ## 📚 What I Learned 
 - Rendering dynamic content with JS and template literals
