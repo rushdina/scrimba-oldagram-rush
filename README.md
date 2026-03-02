@@ -5,12 +5,12 @@ Double-click a post image or click the like button to increase likes.
 Designed for **mobile view only**.
 
 ## 🖼️ Preview
-🔗 Live Demo: https://scrimba-oldagram-rushdina.netlify.app/
+🔗 Live Demo: https://oldagram-rushdina.netlify.app/
 
 <!--  ![Oldagram Preview](images/screenshot-oldagram.png) -->
 
-## 🛠️ Tech Stack
-- `HTML`, `CSS`, `JavaScript`
+## 🛠️ Technologies Used
+- **Frontend:** `HTML`, `CSS`, `JavaScript`
 
 ## 📚 What I Learned 
 - Rendering dynamic content with JS and template literals
@@ -25,7 +25,6 @@ Designed for **mobile view only**.
 - Add comment functionality
 - Toggle like/unlike state
 - Improve desktop responsiveness and styling
-- Add a “time ago” timestamp for posts
 
 ## 🙌 Acknowledgements
 - **Scrimba course:** [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
