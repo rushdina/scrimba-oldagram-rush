@@ -27,7 +27,5 @@ Designed for **mobile view only**.
 - Improve desktop responsiveness and styling
 
 ## 🙌 Acknowledgements
-- **Scrimba course:** [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
-- **Design reference:** [Figma by Scrimba](https://www.figma.com/design/h0MKma9TTWzGOMQ9Ia6ROW/Oldagram?node-id=0-1&p=f&t=1VIJva7ESjCWB2UZ-0)
-- **Image assets:** Provided by Scrimba
-
+- Solo project from [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)  
+- Design and image assets from [Figma by Scrimba](https://www.figma.com/design/h0MKma9TTWzGOMQ9Ia6ROW/Oldagram?node-id=0-1&p=f&t=1VIJva7ESjCWB2UZ-0)
